@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_068_abc_learning/core/level_plan.dart';
-import 'package:game_068_abc_learning/core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 import 'package:game_068_abc_learning/game/kids_data.dart';
 import 'package:game_068_abc_learning/game/kids_quiz_engine.dart';
 import 'package:game_068_abc_learning/game/rules.dart';
